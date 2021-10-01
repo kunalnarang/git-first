@@ -2,4 +2,6 @@
 
 this is the first file in the repo.
 
-This will be the second commit
+This was added for the second commit
+
+This was added for the third commit
