@@ -1,3 +1,8 @@
 one
 testing
+<<<<<<< HEAD
 again
+=======
+again
+
+>>>>>>> staging
